@@ -1,0 +1,13 @@
+# Personal data: stays on each person's computer, never uploaded
+account.json
+settings.json
+sent_log.csv
+do_not_contact.txt
+last_template.json
+.ms_token_cache.json
+
+# Downloaded automatically at first start
+tools/
+.installed
+__pycache__/
+*.pyc
